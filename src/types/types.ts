@@ -23,12 +23,3 @@ export interface ApiResponse {
   results: Image[];
   total_pages: number;
 }
-
-// export interface ImageInfo {
-//   url?: string;
-//   alt?: string | null;
-//   description?: string | null;
-//   name: string;
-//   location?: string | null;
-//   portfolio?: string | null;
-// }
